@@ -1,16 +1,12 @@
 # taoist_wisdom_flutter
 
-A new Flutter project.
+Cross-platform app developed with Flutter. Displays random quotes from the Tao Te Ching. 
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+- Taoist Wisdom displays quotes from the Tao Te Ching, attributed to Lao Tzu.
+- Users can share quotes on social media.
+- The app is written in Dart with the Flutter framework to run on both iOS and Android.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
